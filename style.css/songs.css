@@ -1,0 +1,15 @@
+table{
+    width: 1000px;
+    height: 450px;
+    color: white;
+    /* background-color: rgb(26, 35, 39); */
+}
+table,tr,td{
+    border: solid 0.5px;
+    color: #f1efef;
+    border-spacing: 1px;
+    text-align: center;
+    margin-bottom: 100px;
+    margin: 20px;
+   
+}

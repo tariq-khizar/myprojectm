@@ -1,0 +1,32 @@
+/* .table .buy-now-btn {
+    font-size: 12px;
+    padding: 4px 16px;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+}
+.btn {
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    width: 100px;
+}
+.btn-buy {
+    background-color: #4ec6e0;
+}
+.btn-cancelled {
+    background-color: #555;
+    color: #ccc;
+}
+.btn-coming-soon,
+.btn-sold-out {
+    color: #81c7e0;
+    font-weight: bold;
+} */

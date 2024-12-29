@@ -1,0 +1,29 @@
+.class1 h1{
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+.container card-body{
+color: burlywood;
+}
+.row{
+    padding: 20px;
+}
+.card img{
+    border-radius: 20px;
+    height: 260px;
+    width: 290px;
+}
+.card-body{
+    color: rgb(128, 0, 60);
+}
+.class2 h1{
+    align-items: center;
+    justify-content: center;
+}
+.class3 h3 p{
+    justify-content: left;
+    position: absolute;
+    font-size: medium;
+    border: solid 2px black;
+}
